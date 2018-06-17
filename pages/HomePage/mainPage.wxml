@@ -1,0 +1,5 @@
+<!--pages/HomePage/mainPage.wxml-->
+<view class="container">
+  <text>地精酒馆首页</text>
+</view>
+

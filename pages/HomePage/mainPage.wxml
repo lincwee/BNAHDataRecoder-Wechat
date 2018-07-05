@@ -1,5 +1,9 @@
 <!--pages/HomePage/mainPage.wxml-->
-<view class="container">
-  <text>地精酒馆首页</text>
+<view class="mainScreen">
+  <view class='topView'>
+    顶部搜索栏
+  </view>
+  <view class='bottomView'>
+    地精酒馆首页
+  </view>
 </view>
-

@@ -9,7 +9,7 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "1.9.94",
-	"appid": "", 
+	"appid": "touristappid",
 	"projectname": "BNAHDataRecoder-Wechat",
 	"isGameTourist": false,
 	"condition": {

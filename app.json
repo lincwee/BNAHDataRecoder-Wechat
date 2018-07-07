@@ -1,13 +1,29 @@
 {
   "pages": [
-    "pages/index/index",
-    "pages/logs/logs",
-    "pages/HomePage/mainPage"
+    "pages/HomePage/mainPage",
+    "pages/RealmPage/RealmPage",
+    "pages/MinePage/MinePage"
   ],
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "WeChat",
     "navigationBarTextStyle": "#dddddd"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/HomePage/mainPage",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/RealmPage/RealmPage",
+        "text": "服务器"
+      },
+      {
+        "pagePath": "pages/MinePage/MinePage",
+        "text": "我的"
+      }
+    ]
   }
 }
